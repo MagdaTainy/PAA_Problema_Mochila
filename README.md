@@ -41,21 +41,28 @@ Programação Dinâmica → Valor máximo = 220
 Heurística Gulosa → Valor aproximado = 190
 
 📌 Conclusão
+
 Esse trabalho evidencia a diferença entre técnicas de resolução de problemas NP-Completos:
 A Programação Dinâmica fornece a solução ótima, com complexidade O(n * W).
+
 A Heurística Gulosa oferece uma solução rápida com complexidade O(n log n), mas sem garantia de ótimo.
 Assim, o projeto demonstra o equilíbrio entre precisão e eficiência em algoritmos de otimização.
 
 📁 Estrutura do Repositório
+
 /
 ├── knapsack_problem.py
 ├── Seminario2_Problema_da_Mochila.pdf
 ├── README.md
+
 🎥 Vídeo de Apresentação
 
 
 📚 Referências
+
 Weiss, M. A. Data Structures & Algorithm Analysis in C++.
+
 Cormen, T. H., Leiserson, C. E., Rivest, R. L. & Stein, C. Introduction to Algorithms (3ª ed.).
+
 Texto sobre o problema da mochila 0/1 em sites acadêmicos de algoritmos.
    
