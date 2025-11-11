@@ -53,7 +53,8 @@ Assim, o projeto demonstra o equilíbrio entre precisão e eficiência em algori
 /
 ├── knapsack_problem.py
 ├── Seminario2_Problema_da_Mochila.pdf
-├── README.md
+└── README.md
+
 
 🎥 Vídeo de Apresentação
 
