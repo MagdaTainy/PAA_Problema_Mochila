@@ -29,6 +29,9 @@ O repositório inclui:
    ```bash
    python knapsack_problem.py
 
+Ou acessar o notebook no colab:
+https://colab.research.google.com/drive/1QN2MkeLgRuso9uVCoQ5z6LprEHVT-6Tt?usp=sharing
+
 📊 Dataset simples
 Valores dos itens: [60, 100, 120, 90, 30]
 Pesos dos itens: [10, 20, 30, 25, 15]
