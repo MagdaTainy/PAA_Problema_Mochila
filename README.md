@@ -60,7 +60,7 @@ Assim, o projeto demonstra o equilíbrio entre precisão e eficiência em algori
 
 
 🎥 Vídeo de Apresentação
-
+https://www.youtube.com/watch?v=vHpFtDH_E2s
 
 📚 Referências
 
