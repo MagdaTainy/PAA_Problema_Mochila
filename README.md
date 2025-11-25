@@ -3,7 +3,7 @@
 
 ### 🎯 Equipe  
 - Magda Tainy Nunes Amaral
-- Bruno 
+- Cesar Mateus Trindade
 
 ---
 
